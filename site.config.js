@@ -1,13 +1,13 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '8f8c464eb12343b0babc0fabf5dd4767',
+  rootNotionPageId: 'TransitiveBullsh-it-26e6a60613b84718b65028421da9ec8b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'TransitiveBullsh-it-26e6a60613b84718b65028421da9ec8b',
+  name: 'NuoHui',
   domain: 'https://www.notion.so/TransitiveBullsh-it-26e6a60613b84718b65028421da9ec8b',
   author: 'NuoHui',
 
