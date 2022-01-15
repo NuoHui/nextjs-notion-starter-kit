@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'NuoHui',
-  domain: 'https://www.notion.so/8f8c464eb12343b0babc0fabf5dd4767?v=4a292a76f65c41959e2d96ab75e6c72f',
+  name: 'TransitiveBullsh-it-26e6a60613b84718b65028421da9ec8b',
+  domain: 'https://www.notion.so/TransitiveBullsh-it-26e6a60613b84718b65028421da9ec8b',
   author: 'NuoHui',
 
   // open graph metadata (optional)
